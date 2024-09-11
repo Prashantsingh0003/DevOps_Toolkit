@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.toolkit-list {
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: left;
+}
+
+.toolkit-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+
+.toolkit-item h3 {
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.footer {
+  margin-top: 20px;
+  color: #666;
+}
